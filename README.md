@@ -118,7 +118,7 @@ it should look something like below:
 Restart the nginx, now you should be ready to go!
 
 ### Enviroment setup(XAMPP)
-Open `httpd.conf` file and add this
+Open `httpd.conf` file and add this:
     SetEnv ZF2_PATH `path/to/z2lib` (clone lib from https://github.com/zendframework)
     SetEnv APPLICATION_ENV development
 Restart the apache.
