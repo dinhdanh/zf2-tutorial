@@ -1,3 +1,4 @@
+[![Coverage Status](https://coveralls.io/repos/github/dinhdanh/zf2-tutorial/badge.svg?branch=master)](https://coveralls.io/github/dinhdanh/zf2-tutorial?branch=master)
 ZendSkeletonApplication
 =======================
 
